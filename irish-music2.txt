@@ -1,0 +1,342 @@
+
+G3-A (Bcd=e) | f4 (g2dB) | ({d}c3-B) G2-E2 | F4 (D2=E^F) |
+G3-A (Bcd=e) | f4 d2-f2 | (g2a2 b2).g2 | {b}(a2g2 f2).d2 |
+(d2{ed}c2) B2B2 | (A2G2 {AG}F2).D2 | (GABc) (d2{ed}c>A) | G2G2 G2z ||
+G | B2c2 (dcAB) | G2G2 G3G | B2d2 (gfdc) | d2g2 (g3ga) |
+(bagf) (gd)d>c | (B2AG) F-D.D2 | (GABc) d2d2 | (bgfd) cA.F2 |
+G2A2 (B2{cB}AG) | A3-G F2-D2 | (GABc) (d2{ed}c>A) | G2G2 G2z2 ||
+
+
+f-g | a3-b g3-a | f4 e3-d | d3-c A3-B | c4 d3-e |
+d3-c (3(A2G2F2) | G4F2-G2 | A-d3 d3-e | d6 ||
+A2 | d3-e f3-g | a4 a3-g | a3-b a3-f | g4 g3-g |
+a3-b a3-g | {e}=f4 e3-c | d3-c A3-G | A6 f-g |
+a3-b g3-a | f4 e3-d | d3-c A3-B | c4 d3-e |
+d3-c (3(A2G2F2) | G4 F2-G2 | A-d3 d3-e | d6 ||
+
+
+B/2-c/2 | d2 d>-c B2 A-B | (GBAG) F2 D-F | (G>AG).F (D>CD).F | G2 G>-A B3 c |
+(d>ed).c B2 A>-B | (GBAG) F2 D-F | (G>AG).F (D>CD).F | G2 G>A G3 ||
+D | GABc d2 d=e | f2 =ed c>AF>>c | d>edc B2 AB | GFD=E F2 B-c |
+(d>ed).c B2 A2 | (GBAG) F2 D-F | (G>AG).F (D>CD).F | G2 G>A G3 ||
+
+
+F-G | A-dd>-c d2 cd | e-fgg (f2 d>e) | f-d (c/2A/2G) A2c-d | e2 {=fe}d2 d2 (^FG) |
+A-dd>-c d2 cd | e-ag-e d2 de | f-d(c{dc}A) (GB{cB}A>).G | F2 D2 D2 ||
+d>c | B2 B-G A2 d-e | f-dc{dc}A G2 F-G | (AB{d}c).B A-dc-e | d2 d2 d2 d-c |
+B2 B-G .A2 d-e | f-d(c{dc}A) G2 F-G | (AB{d}c).B (A{Bc}BG>).A | F2 D2 D2 ||
+
+
+B/2-A/2 | G>FD C>D^F | G3z2B/2-c/2 | B>cd cAG | F3z2B/2-c/2 |
+d>ed c2 d/2-c/2 | B>AG A2 ~B/2-A/2 | G>FD CD^F | G2 G B2 B/2-c/2 \
+ded cBA | G3-G2 |:|
+
+
+D/|CE EF/G/|AA AB/c/|dB cA|FE E>D|!
+CD EF/G/|AA AB/c/|dB cA|FE E3/2|]!
+B/|ce ec|BA A>B|ce ec|BA B>B|!
+ce ec|BA AB/c/|dB cA|FE E3/2|]!
+
+
+EA AB|cd e2|G>F GA|GE ED|!
+EA AB|cd e>f|ge dB|A2 A2:|!
+a>g ab|ag ef|g>f ga|ge ed|!
+ea ab|ag ef|ge dB|A2 A2:|!
+
+
+cd/c/ Bc/B/|AB/A/ G>A|B/c/d ed|g3 d|!
+ea ge|dB GA/B/|ce dB|A2 A2:|!
+ea ag/e/|dg gd|ea ab|g>f gd|!
+ea ge|dB GA/B/|ce dB|A2 A2:|!
+
+
+A>B AG|EF GE|A>B AG|Ad d/e/d/c/|!
+A>B AG|EF G2|AB cE|ED D2:|!
+ed d2|eB c2|ed ^cd|ea a/b/a/g/|!
+[1 ed d2|eB c/d/c/B/|AB cd|ef g2:|!
+[2 e/f/g de|^ce d>=c|AB cE|ED D2|]!
+
+
+f/e/d Be|ef ed|f/e/d Be|eA d2|!
+f/e/d Be|ef ed|f/e/d Be|eA d2:|!
+f/a/f ef|af ed|f/a/f ef|af e2|!
+f/a/f ef|af ed|f/e/d Be|eA d2:|!
+
+a2 a>f|ec a>f|ec a>f|ec BA|!
+a2 a>f|ec a2|ce B>c|BA A2:|!
+ce e2|df f2|ce e2|cB B2|!
+ce e2|df f2|ce B>c|BA A2:|!
+
+A>B cA|BA cA|A>B cA|BA F2|!
+A>B cA|BA ce|A>B AF|FE E2:|!
+e>f ec|BA Bc|e>f ec|BA F2|!
+e>f ec|BA Bc|A>B AF|FE E2:|!
+
+
+c>d ec|dc ec|c>d ec|dc A2|!
+c>d ec|dc eg|c>d cA|AG G2:|!
+g>a ge|dc de|g>a ge|dc A2|!
+g>a ge|dc de|c>d cA|AG G2:|!
+
+
+G>A BG|AG BG|G>A BG|AG E2|!
+G>A BG|AG Bd|G>A GE|ED D2:|!
+d>e dB|AG AB|d>e dB|AG E2|!
+d>e dB|AG AB|G>A GE|ED D2:|!
+
+BG D>D|Ec cA/B/|cE FE|Dd/c/ d/e/d/c/|!
+BG D>D|Ec cA/B/|c/B/A/G/ F/D/E/F/|GB G2:|!
+g2 f2|c3 d|e>f ed|B3 c|!
+d>e d/c/B|A3 B/A/|[1 GA Bc|d3 e/f/:|[2 Gg fa|g2 g2|]!
+
+
+E|D>E DB,|DE GA|Bd AB/A/|GE EG/E/|!
+D>E DB,|DE GA|Bd AB/A/|G2 G:|!
+A|Bd dB|ce ed/c/|Bd AB/A/|GE EA|!
+Bd dB|ce ee/f/|g/f/e fd|e2 e>f|!
+g/f/e fd|e/f/e/d/ BA|Bd AB/A/|GE EG/E/|!
+D>E DB,|DE GA|Bd AB/A/|G2 G|]!
+
+
+E>F GA|Be B2|AF DF|EF DF|!
+E>F GA|Be B2|AF DF|E2 E2:|!
+e2 B2|ee B2|AF DF|EF DF|!
+[1 e2 B2|ee B2|AF DF|E2 E2:|!
+[2 E>F GA|Be B2|AF DF|E2 E2|]!
+
+
+g>f|eA BA|eA BA|eA BA|G2 GB/d/|!
+eA BA|eA BA|Be dB|A2:|!
+A2|ed ef|g>a gf|ed eg|a2 g2|!
+ed ef|g>a ge|dB gB|A2:|!
+
+DF AF/A/|dc Bc|EF GF/G/|BA F2|!
+DF AF/A/|dc Bc|EF GF/E/|DF D2:|!
+fA fA|fA f2|eA eA|B/c/d e2|!
+fA fA|fA f2|eA B/c/d|ed d2:|!
+
+
+FA Ad|B/c/d/B/ AF|GB AF/A/|BE G/F/E/D/|!
+FA Ad|B/c/d/B/ AF|GB A/B/A/G/|FD DE:|!
+FA A/B/d/e/|f/e/f/d/ ed|Bd/B/ AF/A/|BE G/F/E/D/|!
+FA A/B/d/e/|f/e/f/d/ ed|Bd/B/ A/B/A/G/|FD DE:|!
+
+X:16
+T:Denis Murphy's
+Z: id:dc-polka-13
+M:2/4
+L:1/8
+K:A Major
+ef/e/ ce|Ae ce|f/g/a/f/ ec|BA F2|!
+ef/e/ ce|Ae ce|f/g/a/f/ ec|BA A2:|!
+ce fa/f/|ec BA|ce fa/f/|ec B2|!
+ce fa/f/|ec BA|ef/e/ cB|BA A2:|!
+
+
+DG B/A/G/A/|BE EG/E/|DG B/A/G/B/|dB Bd|!
+e/f/g/e/ dB|c/B/A/G/ AB|DG B/A/G/A/|BG G2:|!
+dB/d/ gg|e/f/g/e/ dB|dB/d/ gg|ef g2|!
+e/f/g/e/ dB|c/B/A/G/ AB|DG B/A/G/A/|BG G2:|!
+
+
+B>c Bc|dB Bd|cA Ac|d/c/B/A/ BF|!
+B>c Bc|dB B2|e2 dc|BA B2:|!
+f2 df|ec cd|ef/e/ dc|Bc dB|!
+f2 df|ec cd|ef/e/ dc|BA B2:|!
+
+d/B/|Ad Bd/B/|AD FA|GE BE|A>G FD|!
+Ad Bd/B/|AD FA|[1 GE e>f|ed d:|[2 GE A>G|FD D|]!
+d/B/|Ad fe/f/|g>f ed|cA eA|eA cA|!
+Ad fe/f/|g>f ed|cA Bc|d2 d:|!
+
+B/|c2 c>B|AF F2|EA AB|cB B2|!
+c2 c>B|AF F2|Ee ec|BA A3/2:|!
+B/|cA BA|cA BA|ce ec|BA B2|!
+cA BA|cA BA|ce ec|BA A3/2:|!
+
+
+eA eA|e/f/e/d/ cA|d2 d/e/f/g/|ae fe|!
+eA eA|e/f/e/d/ cA|d2 c2|B/A/B/c/ A2:|!
+ae f/e/c/e/|ae f/e/c/e/|d2 d/e/f/g/|ae fe|!
+ae f/e/c/e/|ae f/e/c/e/|d2 c2|B/A/B/c/ A2:|!
+
+
+g/f/|ed BA|BG ED|GG G/A/B/c/|d2 Bg/f/|!
+ed BA|BG E>G|FA DE/F/|G2 G:|!
+G/A/|Bd ef|gd BG|Bd ef|g2 fg/f/|!
+ed BA|BG E>G|FA DE/F/|G2 G:|!
+
+
+ef/e/ ce|fe Bc|A>B cA|ec B2|!
+ef/e/ ce|fe Bc|A>B cA|FA E2:|!
+F>B AF|cB A2|ef/e/ ce|ag f2|!
+ef/e/ ce|fe Bc|A>B cA|FA E2:|!
+
+X:24
+T:Jim Keefe's
+Z: id:dc-polka-19
+M:2/4
+L:1/8
+K:A Major
+z/|ea c/d/c/B/|Ac EB|cB Bc/e/|fe ce|!
+ea c/d/c/B/|Ac EB|c/d/c/B/ cB|A2 A3/2:|!
+B/|cB Bc/e/|fe cB|cB Bc/e/|fe ce|!
+ea c/d/c/B/|Ac EB|c/d/c/B/ cB|A2 A3/2:|!
+
+
+d>B|AF F/G/F/E/|DF FD/F/|AF AF|E2 E3/2|!
+[1 B/|AF F/G/F/E/|DF FD/F/|AF/A/ Bc|d2:|!
+[2 F/|GE E/F/E/D/|CE E>A|FA Bc|d2|]!
+dA|dA/d/ fe|cB/c/ ec|BA B>c|BA FA|!
+dA/d/ fe|cB/c/ ec|BA Bc|d2:|!
+
+dd B/c/d/B/|AF AF|dd B/c/d/B/|AF ED|!
+dd B/c/d/B/|AF Ad/e/|fd ec|d2 d2:|!
+fd de/f/|gf ed/e/|fd A>d|fa a>g|!
+fd de/f/|gf ed/e/|fd ec|d2 d2:|!
+
+B2 B>A|FA DA|B2 B>A|B/c/d ed|!
+B2 B>A|FA D>E|FD AF|E2 E2:|!
+Be e>f|ed BA|Be e>f|ed Bc|!
+de dB|AF DE/F/|AF dB|A2 A2:|!
+
+GB B/c/B/A/|GB B/c/B/A/|FA D>A|FA D>A|!
+GB B/c/B/A/|GB g>e|fd cA|G2 G2:|!
+g2 g>f|ga ag|fd dd/e/|fg af|!
+g2 g>f|gb ag|fd cA|G2 G2:|!
+B2 B>c|dB AG|F>E FG|AB c/B/A|!
+B2 B>c|dB Bg|fd cA|G2 G2:|!
+
+
+B/A/|GD GA|Be eg/e/|dB AG/A/|BA AB/A/|!
+GD GA|Be eg/e/|dB AB/A/|G2 G:|!
+e/f/|gf ed|ef ge|dB AG/A/|BA A|!
+[1 e/f/|gf ed|ef ge|dB AB/A/|G2 G:|!
+[2 B/A/|GD GA|Be eg/e/|dB AB/A/|G2 G|]!
+
+X:30
+T:Maid of Ardagh
+Z: id:dc-polka-21
+M:2/4
+L:1/8
+K:D Major
+FA BA|de f2|fe/f/ gc|ed BA|!
+FA BA|de f2|fe/f/ gc|ed d2:|!
+ef/e/ ce|fe a2|ef/e/ ce|fe c/B/A|!
+ef/e/ ce|fe a2|ef/e/ cB|BA A2:|!
+
+X:31
+T:Mist on the Glen
+Z: id:dc-polka-25
+M:2/4
+L:1/8
+K:G Major
+G>A Bd|gf ed|eA AB|cd/c/ BA|!
+G>A Bd|gf ed|ea ef|g2 g2:|!
+ae ae|ae e>f|gd gd|gd d>g|!
+ae ae|ae e>f|ge dB|A2 A2:|!
+
+X:32
+T:Mrs. Crowley's No. 1
+Z: id:dc-polka-26
+M:2/4
+L:1/8
+K:G Major
+DG EG/E/|DG EG/E/|DG AG/A/|BA A2|!
+DG EG/E/|DG EG/E/|DG AG/A/|BG G2:|!
+Bd gd|Bd gd|Bd gd|BA A2|!
+[1 Bd gd|Bd gd|GB AG/A/|BG G2:|!
+[2 Bd g2|Bd g2|GB AG/A/|BG G2|]!
+
+
+A/|BG G>A|BG G>B|AF DF|AB c/B/A|!
+BG G>A|BG G>B|d/e/d/c/ AF|AG G3/2:|!
+A/|Bd ce|dg B2|dc A2|ed B>A|!
+Bd ce|dg B2|d/e/d/c/ AF|G2 G3/2:|!
+
+d/c/|dD FA|dD Dd/c/|dD FA|eE Ed/c/|!
+dD FA|Bg fe|d/c/B/A/ B/c/d/e/|fd d:|!
+f/g/|af ge|fd df/g/|af ga|be ef/g/|!
+af ge|fd ec|d/c/B/A/ B/c/d/e/|fd d:|!
+
+
+D3B|AF2B|AF D>E|FE E2|!
+D3B|AF2B|AF EF|D2 D2:|!
+d2 cd|BA FA|d2 cd|B3 c|!
+d2 cd|BA FB|AF EF|D2 D2:|!
+d2 e2|f3f|ed Bc|d3 A|!
+Bd/B/ AF|Bd/B/ AF|AF EF|D2 D2:|!
+
+
+fd Ad|fd Ad|fd/B/ AF|E2 E2|!
+fd Ad|fd Ad|fd/B/ AF|D2 D2:|!
+FD FA|de f/g/f/e/|dB AF|E2 E2|!
+FD FA|de f/g/f/e/|dB AF|D2 D2:|!
+
+A>B ce|fg a2|fe ce|f/a/f/e/ ce|!
+A>B ce|fg a2|fe cB|A2 A2:|!
+a>g fe|fg a2|fe ce|f/a/f/e/ ce|!
+a>g fe|fg a2|fe cB|A2 A2:|!
+
+fA BA|fA BA|d2 e>f|ed BA|!
+fA BA|fA BA|d2 e>f|ed d2:|!
+fa fe|ed BA|d2 e>f|ed BA|!
+fa fe|ed BA|d2 e>f|ed d2:|!
+
+
+c/B/|AF EC|E2 EF|AA BA/B/|cB Bc/B/|!
+AF EC|E2 EF|AA BA/B/|cA A:|!
+A/B/|cB cd|e2 dc|Bf fe|fB Bc/B/|!
+AF EC|E2 EF|AA BA/B/|cA A:|!
+
+
+GB AB/A/|Gg e/f/g/e/|dB AG/A/|BA G/F/E/D/|!
+GB AB/A/|Gg e/f/g/e/|dB AG/A/|BG G2:|!
+Bd g>d|Bd g>d|Bd g>e|f3 g|!
+a/b/a/g/ f/g/f/e/|dB AB/A/|Ge d/B/A/B/|G2 G2:|!
+
+AF A2|BG B2|c/B/A/B/ cd|ed B/c/d/B/|!
+AF A2|BG B2|c/B/A/B/ cd|ed d2:|!
+Ad f>g|fe e2|ef ga|ba ag|!
+f>e fg|fe e2|ef g/e/c|ed d2:|!
+
+
+f/g/f/e/ d/c/d/B/|AD FA|GE e>d|cB BA|!
+f/g/f/e/ d/c/d/B/|AD FA|GE e>f|ed d2:|!
+Af f/e/f|Ag g/f/g|Af f/e/f|e/f/e/d/ BA|!
+Af f/e/f|Ag gg/a/|bg ec|ed d2:|!
+
+D>E|F/E/F/G/ AB|cA Gc|Ad d^c|d2 d>e|!
+fd ed|^cA AA/B/|cA GE|D2:|!
+d>e|fd ed|^cA A>e|fd e^c|d2 d>e|!
+fd ed|^cA AA/B/|cA GE|D2 d>e|!
+fd ed|^cA A>e|fd ef|g2 a>g|!
+fd ed|^cA AA/B/|cA GE|D2|]!
+
+z|ef/e/ dB|BA B/c/d|ef/e/ dB|BA A2|!
+ef/e/ dB|BA B/c/d|ab/a/ gc|ed d:|!
+e|f>e fA|B/c/d ef|g>f ga|ba f/g/a|!
+f>e fA|B/c/d ef|ab/a/ gc|ed d:|!
+
+D|G>A BG|EG ED|G>A Bd|BA AB|!
+G>A BG|EG ED|BG D/E/ F/G/|AG G:|!
+B/c/|dB G>A|BG ED|dB G>A|BA AB/c/|!
+dB G>A|BG ED|BG D/E/ F/G/|AG G:|!
+
+
+G/A/B/c/|d2 B2|B/A/B/c/ B2|A>B A/F/D/F/|AG G/A/B/c/|!
+d2 B2|B/A/B/c/ B2|A>B A/F/D/F/|AG:|!
+G/B/d/g/|b/a/g/f/ a/g/f/e/|dB B/A/B/c/|dA A/F/D/F/|AG G/B/d/g/|!
+b/a/g/f/ a/g/f/e/|dB B/A/B/c/|dA A/F/D/F/|AG:|!
+
+
+z|DF/A/ BA|d2-d>c|BA Bc|BA FA|!
+DF/A/ BA|d2-d>c|BA Bc|ed d:|!
+e|f2 e2|d2-d>c|BA Bc|BA FA|!
+f2 e2|d2-d>c|BA Bc|ed d:|!
+
+
+z|GB/d/ ed|g2-g>f|ed ef|ed Bd|!
+GB/d/ ed|g2-g>f|ed ef|ag g:|!
+a|b2 a2|g2-g>f|ed ef|ed Bd|!
+b2 a2|g2-g>f|ed ef|ag g:|!
